@@ -527,10 +527,12 @@ details[open] summary {
 
 .schedule details dt {
   margin: 0;
+  font-size: 1em;
 }
 
 .schedule details dd {
   margin: 0 0 0 1rem;
+  font-size: 1em;
 }
 
 .schedule details dd + dt {
